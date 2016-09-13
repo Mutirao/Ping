@@ -1290,75 +1290,14 @@
     <string name="CheckStyle">Check style</string>
 
 
-
-
     <!-- NINJA CONFIG -->
+    <string name="AppName">Ping</string>
+    <string name="AppNameBeta">Ping</string>
+    <string name="ShortAppName">Ping</string>
 
-<!--
-    LORA
-    <string name="ninjaPackgeName">com.campanhacompleta.zapdotadeufinal</string>
-    <string name="ninjaActionBarColor">E01A22</string>
-    <string name="ninjaCanal">https://telegram.me/luizianne13</string>
-    <string name="ninjaDescriptionPopUp">Bem vind@ à rede que vai Reencantar Fortaleza.\nAcompanhe nosso canal e participe das atividades.\n\ntelegram.me/luizianne13\n\n#VoltaLôra</string>
-
-
-    TADEU
-    <string name="ninjaPackgeName">com.campanhacompleta.zapdotadeufinal</string>
-    <string name="ninjaActionBarColor">E01A22</string>
-    <string name="ninjaCanal">https://telegram.me/tadeuveneri13</string>
-    <string name="ninjaDescriptionPopUp">Bem vind@ à rede da militância de quem faz o que tem que ser feito. Acompanhe nosso canal e participe das atividades.\n\nCanal: https://telegram.me/TadeuVeneri13</string>
-
-
-    PING
     <string name="ninjaPackgeName">com.campanhacompleta.zapdotadeufinal</string>
     <string name="ninjaActionBarColor">C30E97</string>
     <string name="ninjaCanal">https://telegram.me/hackersbr</string>
     <string name="ninjaDescriptionPopUp">○ Bem vind@ à Rede Livre. Você está usando o Ping, que é um aplicativo de mensagens que se conecta à rede do Telegram.\nAcompanhe nosso canal:\n\nCanal: https://telegram.me/hackersbr</string>
 
-    -->
-
-    <string name="AppName">Zap do Tadeu</string>
-    <string name="AppNameBeta">Zap do Tadeu</string>
-    <string name="ShortAppName">Zap do Tadeu</string>
-
-    <string name="ninjaPackgeName">com.campanhacompleta.zapdotadeufinal</string>
-    <string name="ninjaActionBarColor">E01A22</string>
-    <string name="ninjaCanal">https://telegram.me/tadeuveneri13</string>
-    <string name="ninjaDescriptionPopUp">Bem vind@ à rede da militância de quem faz o que tem que ser feito. Acompanhe nosso canal e participe das atividades.\n\nCanal: https://telegram.me/TadeuVeneri13</string>
-
-
-    <!-- CREDENCIAIS
-    <string name="DEBUG_VERSION">false</string>
-    <string name="APP_ID">53029</string>
-    <string name="BUILD_VERSION">1</string>
-    <string name="APP_HASH">45e234fac9d15a32358653649becbde7</string>
-    <string name="HOCKEY_APP_HASH">c59aa51ddffd4cb5b8fc7fca858c3d11</string>
-    <string name="HOCKEY_APP_HASH_DEBUG">c59aa51ddffd4cb5b8fc7fca858c3d11</string>
-    <string name="HOCKEY_APP_HASH_DEBUG_SECRET">7ab21d522b82d00e3e65a623e324f945</string>
-    <string name="BUILD_VERSION_STRING">123882688054</string>
-    <string name="GCM_SENDER_ID">566026805338</string>
-    <string name="SEND_LOGS_EMAIL">pabloflopes@gmail.com</string>
-    <string name="BING_SEARCH_KEY"></string>
-    <string name="FOURSQUARE_API_ID"></string>
-    <string name="FOURSQUARE_API_VERSION"></string>
-    <string name="FOURSQUARE_API_KEY"></string>
- -->
-
-    <!--
-    <string name="DEBUG_VERSION"></string>
-    <string name="APP_ID">45e234fac9d15a32358653649becbde7</string>
-    <string name="BUILD_VERSION"></string>
-    <string name="APP_HASH">45e234fac9d15a32358653649becbde7</string>
-    <string name="HOCKEY_APP_HASH">c59aa51ddffd4cb5b8fc7fca858c3d11</string>
-    <string name="HOCKEY_APP_HASH_DEBUG">7ab21d522b82d00e3e65a623e324f945</string>
-    <string name="HOCKEY_APP_HASH_DEBUG_SECRET">7ab21d522b82d00e3e65a623e324f945</string>
-    <string name="BUILD_VERSION_STRING"></string>
-    <string name="GCM_SENDER_ID"></string>
-    <string name="SEND_LOGS_EMAIL"></string>
-    <string name="BING_SEARCH_KEY"></string>
-    <string name="FOURSQUARE_API_ID"></string>
-    <string name="FOURSQUARE_API_VERSION"></string>
-    <string name="FOURSQUARE_API_KEY"></string>
-
-    -->
 </resources>
