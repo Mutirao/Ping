@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_tab_pressed">#66c4d3d8</color><!-- 6633B5E5 -->
+    <color name="divider">#dcdcdc</color><!--
+    <color name="header">#ff54759e</color>-->
+    <color name="header">#ff000000</color><!--ff58BCD5--><!--55ABD2-->
+    <color name="primary_dark">#ff5f6060</color><!--ff2C90A9 -->
+    <color name="primary_light">#ffd2d2d2</color><!--ff6ED2E9 -->
+</resources>
